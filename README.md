@@ -22,6 +22,9 @@ If you want to run this with the docker:
     To run docker container:
     
         docker run -p 8000:8000 -e HOST=<IP Address> safa_backend
+        
+        
+Ask me for the dictionary .csv if needed. Only I have access to it, and the way to actually generate the data. The backend will break without it.
     
     
        
